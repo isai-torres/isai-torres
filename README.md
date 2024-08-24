@@ -1,10 +1,10 @@
-<!--<h1 align="center">Hi 👋, I'm Isai Torres 🧑‍💻</h1>-->
 <div align="center">
-  <img src="images/github-header-image.png">
+  <img src="https://github.com/user-attachments/assets/d7b7947f-ac73-4c6a-bcae-1328897636a0">
 </div>
 
 <h3 align="left">Passionate Frontend Developer with a deep love for coding and technology. I thrive on learning new programming 
 languages and exploring the latest trends in the tech world.</h3>
+
 <br>
 
 - 💻 I’m currently learning **Computer Science at Universidad Interamericana de PR**
@@ -38,17 +38,22 @@ languages and exploring the latest trends in the tech world.</h3>
 
 
 <hr style="border: solid 2px; color: #B4ADFE;">
+
 <br>
 
 <div align="center">
-  <img  src="images/gift-coding.webp" width="250" height="250"/>
+  <img  src="https://github.com/user-attachments/assets/0a11ad33-ce2a-4d3c-a481-1bec3990f013" width="250" height="250"/>
 </div>
 
 <h3 align="left">📊 Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isai-torres&show_icons=true&locale=en&layout=compact&
-theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=isai-torres&include_all_commits=true&count_private=true&
-show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isai-torres&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=isai-torres&show_icons=true&theme=tokyonight">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=isai-torres&color=blueviolet">
 </div>
