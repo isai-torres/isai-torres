@@ -2,8 +2,7 @@
   <img src="https://github.com/user-attachments/assets/d7b7947f-ac73-4c6a-bcae-1328897636a0">
 </div>
 
-<h3 align="left">Passionate Frontend Developer with a deep love for coding and technology. I thrive on learning new programming 
-languages and exploring the latest trends in the tech world.</h3>
+<h3 align="left">Passionate Frontend Developer and current Computer Science student with a strong enthusiasm for coding and technology. I enjoy learning new programming languages and keeping up with the latest trends in the tech world.</h3>
 
 <br>
 
@@ -24,7 +23,9 @@ languages and exploring the latest trends in the tech world.</h3>
   width="50" height="40" style="padding-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" 
   width="50" height="40" style="padding-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 
+  width="50" height="40" style="padding-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
   width="50" height="40" style="padding-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" 
   height="40" style="padding-right: 10px;"/>
@@ -34,6 +35,8 @@ languages and exploring the latest trends in the tech world.</h3>
   width="50" height="40" style="padding-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
   alt="bootstrap" width="50" height="40" style="padding-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+  alt="tailwind" width="50" height="40" style="padding-right: 10px;"/>
 </div>
 
 
