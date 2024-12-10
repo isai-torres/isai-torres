@@ -35,8 +35,6 @@
   width="50" height="40" style="padding-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
   alt="bootstrap" width="50" height="40" style="padding-right: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-  alt="tailwind" width="50" height="40" style="padding-right: 10px;"/>
 </div>
 
 
