@@ -4,7 +4,7 @@
   <!-- <img src="https://github.com/user-attachments/assets/d7b7947f-ac73-4c6a-bcae-1328897636a0"> -->
 </div>
 
-<h3 align="left">I'm a full-stack developer and current Computer Science student with a strong enthusiasm for coding and technology. I enjoy learning new programming languages and keeping up with the latest trends in the tech world.</h3>
+<h3 align="left">I'm a Backend Developer and current Computer Science student with a strong enthusiasm for coding and technology. I enjoy learning new programming languages and keeping up with the latest trends in the tech world.</h3>
 
 <br>
 
